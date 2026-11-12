@@ -1,0 +1,8 @@
+# CUDA torch 2.5.0+cu124 / torchvision inherited from existing dl_lab.
+# This file records newly selected project requirements, not a full lockfile.
+monai==1.5.1
+segment-anything==1.0
+einops==0.8.1
+h5py==3.16.0
+scikit-image==0.26.0
+pytest==8.4.2
